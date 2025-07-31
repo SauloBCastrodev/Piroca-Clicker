@@ -1,0 +1,45 @@
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    background-image: url('https://preview.redd.it/name-you-favorite-movie-but-add-getting-jonkled-by-jonkler-v0-38cm2dx9f63d1.jpeg?auto=webp&s=1b99067f243c076da1e8b2df2e0fa0071dcdb721');
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+
+.titulo {
+    color: #f6f6f6;
+    font-size: 4em;
+    padding: auto;
+    margin: auto;
+    -webkit-text-stroke: 2px;
+    -webkit-text-stroke-color: black;
+}
+
+.status {
+    color: #f6f6f6;
+    -webkit-text-stroke: 0.5px;
+    -webkit-text-stroke-color: black;
+}
+
+#dinheiro {
+    font-size: 2em;
+    margin-bottom: 0;
+}
+
+#clicker {
+    width: 30%;
+    height: 30%;
+    font-size: 3em;
+}
+
+button {
+    margin: 1em;
+}
+
+div {
+    width: 80%;
+    margin: 2em auto;
+}
